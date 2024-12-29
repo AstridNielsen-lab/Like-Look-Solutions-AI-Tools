@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .scale-102 {
+    transform: scale(1.02);
+  }
+}
+
+@layer base {
+  body {
+    @apply antialiased;
+  }
+}

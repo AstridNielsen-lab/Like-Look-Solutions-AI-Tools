@@ -68,6 +68,12 @@ O **Like Look Solutions AI Tools** é um conjunto de ferramentas baseadas em int
 - **Back-end**: Node.js, Express
 - **Serviço de Hospedagem**: Vercel
 
+### Contato:
+- **WhatsApp: +55 11 97060-3441**
+- **Email: juliocamposmachado@gmail.com**
+- **Website: https://likelook.wixsite.com/solutions**
+- **Facebook: https://www.facebook.com/likelooksolutions**
+
 ### Como Utilizar:
 
 1. Clone o repositório:
@@ -79,3 +85,10 @@ O **Like Look Solutions AI Tools** é um conjunto de ferramentas baseadas em int
 
 ```bash
 npm install
+
+
+
+
+
+
+

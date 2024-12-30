@@ -39,5 +39,2692 @@ export const tools: Tool[] = [
   { name: 'PicSo', url: 'https://picso.ai', category: 'Art' },
   { name: 'Daft Art', url: 'https://daftart.ai', category: 'Art' },
   { name: 'Clipdrop', url: 'https://clipdrop.co', category: 'Art' },
-  { name: 'Openart', url: 'https://openart.ai', category: 'Art' }
+  { name: 'Openart', url: 'https://openart.ai', category: 'Art' },
+  {
+    name: 'BlackBox AI Code Assistant',
+    url: 'https://www.useblackbox.io/',
+    category: 'Code Assistant',
+  },
+  {
+    name: 'CodeAssist',
+    url: 'https://plugins.jetbrains.com/plugin/20085-codeassist',
+    category: 'Code Assistant',
+  },
+  {
+    name: 'Programminghelper',
+    url: 'https://www.programming-helper.com/',
+    category: 'Code Assistant',
+  },
+  {
+    name: 'Copilot',
+    url: 'https://github.com/features/copilot',
+    category: 'Code Assistant',
+  },
+  {
+    name: 'AskCodi',
+    url: 'https://www.askcodi.com',
+    category: 'Code Assistant',
+  },
+  {
+    name: 'Amazon CodeWhisperer',
+    url: 'https://aws.amazon.com/codewhisperer/',
+    category: 'Code Assistant',
+  },
+  {
+    name: 'Cheat Layer',
+    url: 'https://cheatlayer.com/',
+    category: 'Code Assistant',
+  },
+  {
+    name: 'AI CLI',
+    url: 'https://github.com/abhagsain',
+    category: 'Code Assistant',
+  },
+  {
+    name: 'CodeGeeX',
+    url: 'https://huggingface.co/spaces/THUDM/CodeGeeX',
+    category: 'Code Assistant',
+  },
+  {
+    name: 'Maverick',
+    url: 'https://marketplace.visualstudio.com/items?itemName=YurtsAI.maverick&',
+    category: 'Code Assistant',
+  },
+  {
+    name: 'Tabnine',
+    url: 'https://www.tabnine.com',
+    category: 'Code Assistant',
+  },
+  {
+    name: 'Spellbox',
+    url: 'https://spellbox.app/',
+    category: 'Code Assistant',
+  },
+  {
+    name: 'Stenography',
+    url: 'https://stenography.dev/',
+    category: 'Code Assistant',
+  },
+  {
+    name: 'Replit',
+    url: 'https://replit.com',
+    category: 'Code Assistant',
+  },
+  {
+    name: 'Codeium',
+    url: 'https://www.codeium.com/',
+    category: 'Code Assistant',
+  },
+  {
+    name: 'Hypotenuse AI',
+    url: 'https://hypotenuse.ai/',
+    category: 'Copywriting',
+  },
+  {
+    name: 'Bertha.ai',
+    url: 'https://bertha.ai/',
+    category: 'Copywriting',
+  },
+  {
+    name: 'Digital First AI',
+    url: 'https://digitalfirst.ai/',
+    category: 'Copywriting',
+  },
+  {
+    name: 'Botowski',
+    url: 'https://www.botowski.com/',
+    category: 'Copywriting',
+  },
+  {
+    name: 'VEG3',
+    url: 'https://veg3.ai/',
+    category: 'Copywriting',
+  },
+  {
+    name: 'Daydrm.ai',
+    url: 'https://www.daydrm.ai/',
+    category: 'Copywriting',
+  },
+  {
+    name: 'Jasper AI',
+    url: 'https://jasper.ai/',
+    category: 'Copywriting',
+  },
+  {
+    name: 'Peppertype.ai',
+    url: 'https://www.peppertype.ai/',
+    category: 'Copywriting',
+  },
+  {
+    name: 'Unbounce',
+    url: 'https://unbounce.com/',
+    category: 'Copywriting',
+  },
+  {
+    name: 'Easy-Peasy.AI',
+    url: 'https://easy-peasy.ai/',
+    category: 'Copywriting',
+  },
+  {
+    name: 'Simplified',
+    url: 'https://simplified.com/ai-writer',
+    category: 'Copywriting',
+  },
+  {
+    name: 'CopyMonkey',
+    url: 'https://copymonkey.ai/',
+    category: 'Copywriting',
+  },
+  {
+    name: 'Anyword',
+    url: 'https://anyword.com/',
+    category: 'Copywriting',
+  },
+  {
+    name: 'Lek',
+    url: 'https://lek.ai/',
+    category: 'Copywriting',
+  },
+  {
+    name: 'Copysmith',
+    url: 'https://copysmith.ai/',
+    category: 'Copywriting',
+  },
+  {
+    name: 'Copy.ai',
+    url: 'https://www.copy.ai/',
+    category: 'Copywriting',
+  },
+  {
+    name: 'Cowriter',
+    url: 'https://cowriter.org/',
+    category: 'Copywriting',
+  },
+  {
+    name: 'Contents',
+    url: 'https://contents.com/',
+    category: 'Copywriting',
+  },
+  {
+    name: 'Creator AI',
+    url: 'https://www.creaitor.ai/',
+    category: 'Copywriting',
+  },
+  {
+    name: 'Adcreative.ai',
+    url: 'https://adcreative.ai/',
+    category: 'Copywriting',
+  },
+  {
+    name: 'WiziShop',
+    url: 'https://wizishop.com/ai',
+    category: 'Copywriting',
+  },
+  {
+    name: 'Rytr',
+    url: 'https://rytr.me/',
+    category: 'Copywriting',
+  },
+  {
+    name: 'Unbound',
+    url: 'https://www.unboundcontent.ai/',
+    category: 'Copywriting',
+  },
+  {
+    name: 'texti',
+    url: 'https://texti.app/',
+    category: 'Copywriting',
+  },
+
+  {
+    name: 'Ocoya',
+    url: 'https://www.ocoya.net',
+    category: 'Copywriting',
+  },
+  {
+    name: 'BotDistrikt',
+    url: 'https://www.botdistrikt.com',
+    category: 'Customer Support',
+  },
+  {
+    name: 'Poly.ai',
+    url: 'https://poly.ai/',
+    category: 'Customer Support',
+  },
+  {
+    name: 'Kore.ai',
+    url: 'https://kore.ai/',
+    category: 'Customer Support',
+  },
+  {
+    name: 'viable',
+    url: 'https://www.askviable.com/',
+    category: 'Customer Support',
+  },
+  {
+    name: 'Vee',
+    url: 'https://vee.ai/en/',
+    category: 'Customer Support',
+  },
+  {
+    name: 'Quickchat',
+    url: 'https://www.quickchat.ai',
+    category: 'Customer Support',
+  },
+  {
+    name: 'Forethought',
+    url: 'https://forethought.ai/',
+    category: 'Customer Support',
+  },
+  {
+    name: 'Typewise',
+    url: 'https://typewise.app',
+    category: 'Customer Support',
+  },
+  {
+    name: 'Ebi.Ai',
+    url: 'https://ebi.ai',
+    category: 'Customer Support',
+  },
+  {
+    name: 'Harvey',
+    url: 'https://hiverhq.com/harvey-ai-customer-support',
+    category: 'Customer Support',
+  },
+  {
+    name: 'Cohere',
+    url: 'https://cohere.io/',
+    category: 'Customer Support',
+  },
+  {
+    name: 'Maya',
+    url: 'https://maya.ai',
+    category: 'Customer Support',
+  },
+  {
+    name: 'Tiledesk',
+    url: 'https://tiledesk.com/',
+    category: 'Customer Support',
+  },
+  {
+    name: 'Xokind',
+    url: 'https://www.xokind.com/',
+    category: 'Customer Support',
+  },
+  {
+    name: 'Delve',
+    url: 'https://www.delve.ai/',
+    category: 'Customer Support',
+  },
+  {
+    name: 'Kaizan',
+    url: 'https://kaizan.ai/',
+    category: 'Customer Support',
+  },
+  {
+    name: 'echowin',
+    url: 'https://echo.win/',
+    category: 'Customer Support',
+  },
+  {
+    name: 'Puzzle',
+    url: 'https://www.puzzlelabs.ai/',
+    category: 'Customer Support',
+  },
+  {
+    name: 'Magician (Figma)',
+    url: 'https://magician.design/',
+    category: 'Design Assistant',
+  },
+  {
+    name: 'Uizard',
+    url: 'https://uizard.io/',
+    category: 'Design Assistant',
+  },
+  {
+    name: 'Clickable',
+    url: 'https://www.clickable.so',
+    category: 'Design Assistant',
+  },
+  {
+    name: 'Diagram',
+    url: 'https://diagram.com',
+    category: 'Design Assistant',
+  },
+  {
+    name: 'Microsoft Designer',
+    url: 'https://designer.microsoft.com',
+    category: 'Design Assistant',
+  },
+  {
+    name: 'Designs AI',
+    url: 'https://designs.ai/',
+    category: 'Design Assistant',
+  },
+  {
+    name: 'Pinegraph',
+    url: 'https://pinegraph.com/',
+    category: 'Design Assistant',
+  },
+  {
+    name: 'Pattern Maker AI',
+    url: 'https://patternmakerai.com/',
+    category: 'Design Assistant',
+  },
+  {
+    name: 'Illustroke',
+    url: 'https://illustroke.com/',
+    category: 'Design Assistant',
+  },
+  {
+    name: 'Pictorial',
+    url: 'https://pictorial.ai/',
+    category: 'Design Assistant',
+  },
+  {
+    name: 'Hotpot.ai',
+    url: 'https://hotpot.ai/',
+    category: 'Design Assistant',
+  },
+  {
+    name: 'Autodraw',
+    url: 'https://autodraw.com/',
+    category: 'Design Assistant',
+  },
+  {
+    name: 'Vizcom',
+    url: 'https://www.vizcom.ai/',
+    category: 'Design Assistant',
+  },
+  {
+    name: 'Dimensions',
+    url: 'https://www.dimensions.ink',
+    category: 'Design Assistant',
+  },
+  {
+    name: 'StockImg AI',
+    url: 'https://stockimg.ai/',
+    category: 'Design Assistant',
+  },
+  {
+    name: 'Breeze AI',
+    url: 'https://breeze.ai/',
+    category: 'Design Assistant',
+  },
+  {
+    name: 'AI2image',
+    url: 'https://www.ai2image.com/',
+    category: 'Design Assistant',
+  },
+  {
+    name: 'AIGraphics',
+    url: 'https://aigraphics.io/',
+    category: 'Design Assistant',
+  },
+  {
+    name: 'CandyIcons',
+    url: 'https://www.candyicons.com/',
+    category: 'Design Assistant',
+  },
+  {
+    name: 'IllostrationAI',
+    url: 'https://www.illostration.com/',
+    category: 'Design Assistant',
+  },
+
+  {
+    name: 'Patterned AI',
+    url: 'http://patterned.ai/',
+    category: 'Design Assistant',
+  },
+  {
+    name: 'Designify',
+    url: 'https://www.designify.com/',
+    category: 'Design Assistant',
+  },
+  {
+    name: 'CSM Developer Tools',
+    url: 'https://csm.ai/',
+    category: 'Developer Tools',
+  },
+  {
+    name: 'RunPod',
+    url: 'https://runpod.io/',
+    category: 'Developer Tools',
+  },
+  {
+    name: 'Moonbeam Exchange',
+    url: 'https://moonbeam.ai/',
+    category: 'Developer Tools',
+  },
+  {
+    name: 'Shumai (Meta)',
+    url: 'https://github.com/',
+    category: 'Developer Tools',
+  },
+  {
+    name: 'SyntheticAIdata',
+    url: 'https://syntheticaidata.com/',
+    category: 'Developer Tools',
+  },
+  {
+    name: 'Chatbotkit',
+    url: 'https://chatbotkit.com/',
+    category: 'Developer Tools',
+  },
+  {
+    name: 'Pipeline AI',
+    url: 'https://pipeline.ai/',
+    category: 'Developer Tools',
+  },
+  {
+    name: 'Nuclia',
+    url: 'https://nuclia.com/',
+    category: 'Developer Tools',
+  },
+  {
+    name: 'Tinq.ai - NLP API',
+    url: 'https://tinq.ai/',
+    category: 'Developer Tools',
+  },
+  {
+    name: 'Valyr',
+    url: 'https://valyr.vercel.app/',
+    category: 'Developer Tools',
+  },
+  {
+    name: 'GPUX.AI',
+    url: 'https://gpux.ai/',
+    category: 'Developer Tools',
+  },
+  {
+    name: 'RTutor',
+    url: 'https://tutor.ai/',
+    category: 'Developer Tools',
+  },
+  {
+    name: 'Mintlify',
+    url: 'https://mintlify.com/',
+    category: 'Developer Tools',
+  },
+  {
+    name: 'GptDuck',
+    url: 'https://gptduck.com/',
+    category: 'Developer Tools',
+  },
+  {
+    name: 'Textomap',
+    url: 'https://textomap.com/',
+    category: 'Developer Tools',
+  },
+  {
+    name: 'HTTPie AI',
+    url: 'https://httpie.io/',
+    category: 'Developer Tools',
+  },
+  {
+    name: 'Quizgecko',
+    url: 'https://quizgecko.com/',
+    category: 'Education Assistant',
+  },
+  {
+    name: 'WolframAlpha',
+    url: 'https://wolframalpha.com/',
+    category: 'Education Assistant',
+  },
+  {
+    name: 'TutorAI',
+    url: 'https://tutorai.me/',
+    category: 'Education Assistant',
+  },
+  {
+    name: 'MindSmith',
+    url: 'https://mindsmith.ai/',
+    category: 'Education Assistant',
+  },
+  {
+    name: 'Yip',
+    url: 'https://yippity.io/',
+    category: 'Education Assistant',
+  },
+  {
+    name: 'MateAI',
+    url: 'https://mateai.io/',
+    category: 'Email Assistant',
+  },
+  {
+    name: 'Ellie',
+    url: 'https://ellieai.com/',
+    category: 'Email Assistant',
+  },
+  {
+    name: 'Ipso AI',
+    url: 'https://ipso.ai/',
+    category: 'Email Assistant',
+  },
+  {
+    name: 'Luna',
+    url: 'https://getluna.dev/',
+    category: 'Email Assistant',
+  },
+  {
+    name: 'PolitePost',
+    url: 'https://politepost.net/',
+    category: 'Email Assistant',
+  },
+  {
+    name: 'Pipl.ai',
+    url: 'https://pipl.ai/',
+    category: 'Email Assistant',
+  },
+  {
+    name: 'Postaga',
+    url: 'https://postaga.com/',
+    category: 'Email Assistant',
+  },
+  {
+    name: 'DraftLab',
+    url: 'https://draftlab.ai/',
+    category: 'Email Assistant',
+  },
+  {
+    name: 'SuperReply',
+    url: 'https://superreply.co/',
+    category: 'Email Assistant',
+  },
+  {
+    name: 'Quicklines',
+    url: 'https://quicklines.ai/',
+    category: 'Email Assistant',
+  },
+  {
+    name: 'Instantly',
+    url: 'https://instantly.ai/',
+    category: 'Email Assistant',
+  },
+  {
+    name: 'Creatext',
+    url: 'https://creatext.ai/',
+    category: 'Email Assistant',
+  },
+  {
+    name: 'ChatGPT Writer',
+    url: 'https://chatgptwriter.ai/',
+    category: 'Email Assistant',
+  },
+  {
+    name: 'Ortto',
+    url: 'https://ortto.com/',
+    category: 'Email Assistant',
+  },
+  {
+    name: 'Warmer.ai',
+    url: 'https://warmer.ai/',
+    category: 'Email Assistant',
+  },
+  {
+    name: 'Robin',
+    url: 'https://hellorobin.ai/',
+    category: 'Email Assistant',
+  },
+  {
+    name: 'Magicreach Email Assistant',
+    url: 'https://magicreach.ai/',
+    category: 'Email Assistant',
+  },
+  {
+    name: 'Alethea Experiments',
+    url: 'https://alethea.ai/',
+    category: 'Experiments',
+  },
+  {
+    name: 'Ask My Book Experiments',
+    url: 'https://askmybook.com/',
+    category: 'Experiments',
+  },
+  {
+    name: 'Talk To Books Experiments',
+    url: 'https://books.google.com/',
+    category: 'Experiments',
+  },
+  {
+    name: 'VisualHound Fashion',
+    url: 'https://visualhound.com/',
+    category: 'Fashion',
+  },
+  {
+    name: 'FashionAdvisorAI Fashion',
+    url: 'https://fashionadvisorai.com/',
+    category: 'Fashion',
+  },
+  {
+    name: 'Cala Fashion',
+    url: 'https://ca.la/',
+    category: 'Fashion',
+  },
+  {
+    name: 'Botika Fashion',
+    url: 'https://botika.io/',
+    category: 'Fashion',
+  },
+  {
+    name: 'AskThee Fun Tools',
+    url: 'https://askthee.vercel.app/',
+    category: 'Fun Tools',
+  },
+  {
+    name: 'Unreal Meal Fun Tools',
+    url: 'https://unrealmeal.ai/',
+    category: 'Fun Tools',
+  },
+  {
+    name: 'Tattoos AI Fun Tools',
+    url: 'https://tattoosai.com/',
+    category: 'Fun Tools',
+  },
+  {
+    name: 'ELI5 Fun Tools',
+    url: 'https://explainlikeimfive.io/',
+    category: 'Fun Tools',
+  },
+  {
+    name: 'MovieToEmoji Fun Tools',
+    url: 'https://movietoemoji.netlify.app/',
+    category: 'Fun Tools',
+  },
+  {
+    name: 'Santa AI Fun Tools',
+    url: 'https://santa.artflow.ai/',
+    category: 'Fun Tools',
+  },
+  {
+    name: 'Supermeme.ai Fun Tools',
+    url: 'https://supermeme.ai/',
+    category: 'Fun Tools',
+  },
+  {
+    name: 'Jokelub Fun Tools',
+    url: 'https://jokelub.com/',
+    category: 'Fun Tools',
+  },
+  {
+    name: 'Hello History Fun Tools',
+    url: 'https://hellohistory.ai/',
+    category: 'Fun Tools',
+  },
+  {
+    name: 'AskNow Fun Tools',
+    url: 'https://asknow.ai/',
+    category: 'Fun Tools',
+  },
+  {
+    name: 'Chai Gaming',
+    url: 'https://chai.ml/',
+    category: 'Gaming',
+  },
+  {
+    name: 'AIDungeon Gaming',
+    url: 'https://play.aidungeon.io/',
+    category: 'Gaming',
+  },
+  {
+    name: 'AI Careers Gaming',
+    url: 'https://aicareers.io/',
+    category: 'Gaming',
+  },
+  {
+    name: 'PICLY : AI generated spot the difference Gaming',
+    url: 'https://picly.ai/',
+    category: 'Gaming',
+  },
+  {
+    name: 'EndlessVN Gaming',
+    url: 'https://endlessvn.io/',
+    category: 'Gaming',
+  },
+  {
+    name: 'The Simulation Gaming',
+    url: 'https://fablesimulation.com/',
+    category: 'Gaming',
+  },
+  {
+    name: 'Playstrict Gaming',
+    url: 'https://playstrict.com/',
+    category: 'Gaming',
+  },
+  {
+    name: 'LitRPG Adventures Gaming',
+    url: 'https://litrpgadventures.com/',
+    category: 'Gaming',
+  },
+  {
+    name: 'Hexagram Gaming',
+    url: 'https://hexagram.io/',
+    category: 'Gaming',
+  },
+  {
+    name: 'GGPredict Gaming',
+    url: 'https://ggpredict.io/',
+    category: 'Gaming',
+  },
+  {
+    name: 'AI Roguelite Gaming',
+    url: 'https://store.steampowered.com/',
+    category: 'Gaming',
+  },
+  {
+    name: 'Quasi General Writing',
+    url: 'https://quasi.market/',
+    category: 'General Writing',
+  },
+  {
+    name: 'Writewithlaika General Writing',
+    url: 'https://writewithlaika.com/',
+    category: 'General Writing',
+  },
+  {
+    name: 'SmartScribe General Writing',
+    url: 'https://smartscribe.app/',
+    category: 'General Writing',
+  },
+  {
+    name: 'nichess General Writing',
+    url: 'https://nichesss.com/',
+    category: 'General Writing',
+  },
+  {
+    name: 'Compose General Writing',
+    url: 'https://compose.ai/',
+    category: 'General Writing',
+  },
+  {
+    name: 'Text Generator Plugin General Writing',
+    url: 'https://text-gen.com/',
+    category: 'General Writing',
+  },
+  {
+    name: 'WebCopilot General Writing',
+    url: 'https://webcopilot.co/',
+    category: 'General Writing',
+  },
+  {
+    name: 'Frase General Writing',
+    url: 'https://frase.io/',
+    category: 'General Writing',
+  },
+  {
+    name: 'Notion AI General Writing',
+    url: 'https://affiliate.notion.so/',
+    category: 'General Writing',
+  },
+  {
+    name: 'LanguageTool General Writing',
+    url: 'https://languagetool.org/',
+    category: 'General Writing',
+  },
+  {
+    name: 'AIDuh General Writing',
+    url: 'https://aiduh.com/',
+    category: 'General Writing',
+  },
+  {
+    name: 'Writely General Writing',
+    url: 'https://writelyai.com/',
+    category: 'General Writing',
+  },
+  {
+    name: 'Grammarly General Writing',
+    url: 'https://app.grammarly.com/',
+    category: 'General Writing',
+  },
+  {
+    name: 'Proposal Genie General Writing',
+    url: 'https://proposalgenie.ai/',
+    category: 'General Writing',
+  },
+  {
+    name: 'Detect GPT General Writing',
+    url: 'https://chrome.google.com/',
+    category: 'General Writing',
+  },
+  {
+    name: 'LuciaAI General Writing',
+    url: 'https://luciaai.com/',
+    category: 'General Writing',
+  },
+  {
+    name: 'CaliberAI General Writing',
+    url: 'https://caliberai.net/',
+    category: 'General Writing',
+  },
+  {
+    name: 'HelloScribe General Writing',
+    url: 'https://helloscribe.ai/',
+    category: 'General Writing',
+  },
+  {
+    name: 'WordAI General Writing',
+    url: 'https://wordai.com/',
+    category: 'General Writing',
+  },
+  {
+    name: 'Wordtune General Writing',
+    url: 'https://wordtune.com/',
+    category: 'General Writing',
+  },
+  {
+    name: 'Redacta.me General Writing',
+    url: 'https://redacta.me/',
+    category: 'General Writing',
+  },
+  {
+    name: 'Othersideai General Writing',
+    url: 'https://othersideai.com/',
+    category: 'General Writing',
+  },
+  {
+    name: 'Glasp General Writing',
+    url: 'https://glasp.co/',
+    category: 'General Writing',
+  },
+  {
+    name: 'ParagraphAI General Writing',
+    url: 'https://paragraphai.com/',
+    category: 'General Writing',
+  },
+  {
+    name: 'DREAM.page General Writing',
+    url: 'https://dream.page/',
+    category: 'General Writing',
+  },
+  {
+    name: 'Maester.app General Writing',
+    url: 'https://maester.app/',
+    category: 'General Writing',
+  },
+  {
+    name: 'Elephas General Writing',
+    url: 'https://elephas.app/',
+    category: 'General Writing',
+  },
+  {
+    name: 'Sudowrite General Writing',
+    url: 'https://sudowrite.com/',
+    category: 'General Writing',
+  },
+  {
+    name: 'Lex General Writing',
+    url: 'https://lex.page/',
+    category: 'General Writing',
+  },
+  {
+    name: 'HandyPlugins General Writing',
+    url: 'https://handyplugins.co/',
+    category: 'General Writing',
+  },
+  {
+    name: 'Penelope AI General Writing',
+    url: 'https://penelope-ai.vercel.app/',
+    category: 'General Writing',
+  },
+  {
+    name: 'Coverler General Writing',
+    url: 'https://coverler.com/',
+    category: 'General Writing',
+  },
+  {
+    name: 'Giftastic.ai Gift Ideas',
+    url: 'https://giftastic.ai/',
+    category: 'Gift Ideas',
+  },
+  {
+    name: 'Gifts Genie Gift Ideas',
+    url: 'https://gen.gifts/',
+    category: 'Gift Ideas',
+  },
+  {
+    name: 'Suggest Gift Gift Ideas',
+    url: 'https://suggest.gift/',
+    category: 'Gift Ideas',
+  },
+  {
+    name: 'Cool Gift Ideas Gift Ideas',
+    url: 'https://coolgiftideas.io/',
+    category: 'Gift Ideas',
+  },
+  {
+    name: 'Elf Help Gift Ideas',
+    url: 'https://elfhelp.ai/',
+    category: 'Gift Ideas',
+  },
+  {
+    name: 'Whisper AI Healthcare',
+    url: 'https://whisper.ai/',
+    category: 'Healthcare',
+  },
+  {
+    name: 'Cradle Healthcare',
+    url: 'https://cradle.bio/',
+    category: 'Healthcare',
+  },
+  {
+    name: 'SwagAI Human Resources',
+    url: 'https://useslingshot.com/',
+    category: 'Human Resources',
+  },
+  {
+    name: 'Autumn AI Human Resources',
+    url: 'https://getautumn.com/',
+    category: 'Human Resources',
+  },
+  {
+    name: 'Dost Human Resources',
+    url: 'https://getdost.com/',
+    category: 'Human Resources',
+  },
+  {
+    name: 'GeniusReview Human Resources',
+    url: 'https://geniusreview.xyz/',
+    category: 'Human Resources',
+  },
+  {
+    name: 'Moveworks Human Resources',
+    url: 'https://moveworks.com/',
+    category: 'Human Resources',
+  },
+  {
+    name: 'HireYaY Human Resources',
+    url: 'https://hireyay.com/',
+    category: 'Human Resources',
+  },
+  {
+    name: 'JobtitlesAI Human Resources',
+    url: 'https://jobtitlesai.com/',
+    category: 'Human Resources',
+  },
+  {
+    name: 'Magic Eraser Image Editing',
+    url: 'https://magiceraser.io/',
+    category: 'Image Editing',
+  },
+  {
+    name: 'Photoroom Image Editing',
+    url: 'https://photoroom.com/',
+    category: 'Image Editing',
+  },
+  {
+    name: 'Green Screen AI Image Editing',
+    url: 'https://greenscreenai.com/',
+    category: 'Image Editing',
+  },
+  {
+    name: 'Nostalgia Photo Image Editing',
+    url: 'https://nostalgia.photo/',
+    category: 'Image Editing',
+  },
+  {
+    name: 'RestorePhotos Image Editing',
+    url: 'https://restorephotos.io/',
+    category: 'Image Editing',
+  },
+  {
+    name: 'Remove.bg Image Editing',
+    url: 'https://remove.bg/',
+    category: 'Image Editing',
+  },
+  {
+    name: 'Perfectly Clear Video Image Editing',
+    url: 'https://eyeq.photos/',
+    category: 'Image Editing',
+  },
+  {
+    name: 'AI. Image Enlarger Image Editing',
+    url: 'https://imglarger.com/',
+    category: 'Image Editing',
+  },
+  {
+    name: 'Bg.Eraser Image Editing',
+    url: 'https://bgeraser.com/',
+    category: 'Image Editing',
+  },
+  {
+    name: 'Hama - Image Editing',
+    url: 'https://hama.app/',
+    category: 'Image Editing',
+  },
+  {
+    name: 'Topaz Photo AI Image Editing',
+    url: 'https://topazlabs.com/',
+    category: 'Image Editing',
+  },
+  {
+    name: 'Palette.fm Image Editing',
+    url: 'https://palette.fm/',
+    category: 'Image Editing',
+  },
+  {
+    name: 'Visio Studio Image Editing',
+    url: 'https://visio.studio/',
+    category: 'Image Editing',
+  },
+  {
+    name: 'Evoto AI Image Editing',
+    url: 'https://evoto.ai/',
+    category: 'Image Editing',
+  },
+  {
+    name: 'Erase.bg Image Editing',
+    url: 'https://erase.bg/',
+    category: 'Image Editing',
+  },
+  {
+    name: 'Bria Image Editing',
+    url: 'https://bria.ai/',
+    category: 'Image Editing',
+  },
+  {
+    name: 'QuickTools by Picsart Image Editing',
+    url: 'https://tools.picsart.com/',
+    category: 'Image Editing',
+  },
+  {
+    name: 'Radiant Photo Image Editing',
+    url: 'https://radiantimaginglabs.com/',
+    category: 'Image Editing',
+  },
+  {
+    name: 'Mokker Image Editing',
+    url: 'https://mokker.ai/',
+    category: 'Image Editing',
+  },
+  {
+    name: 'Stable Horde Image Generator',
+    url: 'https://stablehorde.net/',
+    category: 'Image Generator',
+  },
+  {
+    name: 'Go Charlie Image Generator',
+    url: 'https://gocharlie.ai/',
+    category: 'Image Generator',
+  },
+  {
+    name: 'Stable Diffusion Image Generator',
+    url: 'https://stability.ai/',
+    category: 'Image Generator',
+  },
+  {
+    name: 'Getimg.ai Image Generator',
+    url: 'https://getimg.ai/',
+    category: 'Image Generator',
+  },
+  {
+    name: 'Aragon - Image Generation',
+    url: 'https://aragon.ai/',
+    category: 'Image Generator',
+  },
+  {
+    name: 'RocketAI Image Generator',
+    url: 'https://rocketai.io/',
+    category: 'Image Generator',
+  },
+  {
+    name: 'Pollinations Image Generator',
+    url: 'https://pollinations.ai/',
+    category: 'Image Generator',
+  },
+  {
+    name: 'Diffusion Land Image Generator',
+    url: 'https://diffusion.land/',
+    category: 'Image Generator',
+  },
+  {
+    name: 'DallE-2 Image Generator',
+    url: 'https://openai.com/',
+    category: 'Image Generator',
+  },
+  {
+    name: 'Getalpaca Image Generator',
+    url: 'https://getalpaca.io/',
+    category: 'Image Generator',
+  },
+  {
+    name: 'Canva Text to Image Image Generator',
+    url: 'https://canva.com/',
+    category: 'Image Generator',
+  },
+  {
+    name: 'Stock AI Image Generator',
+    url: 'https://stockai.com/',
+    category: 'Image Generator',
+  },
+  {
+    name: 'Craiyon Image Generator',
+    url: 'https://craiyon.com/',
+    category: 'Image Generator',
+  },
+  {
+    name: 'Soreal.AI Studio Image Generator',
+    url: 'https://soreal.ai/',
+    category: 'Image Generator',
+  },
+  {
+    name: 'Imgcreator Image Generator',
+    url: 'https://imgcreator.zmo.ai/',
+    category: 'Image Generator',
+  },
+  {
+    name: 'Stylized Image Generator',
+    url: 'https://stylized.ai/',
+    category: 'Image Generator',
+  },
+  {
+    name: 'Artssy Image Generator',
+    url: 'https://artssy.co/',
+    category: 'Image Generator',
+  },
+  {
+    name: 'Nijijourney Image Generator',
+    url: 'https://nijijourney.com/',
+    category: 'Image Generator',
+  },
+  {
+    name: 'Roll Art Die Image Generator',
+    url: 'https://roll-art-die.com/',
+    category: 'Image Generator',
+  },
+  {
+    name: 'Dreamer Image Generator',
+    url: 'https://slashdreamer.com/',
+    category: 'Image Generator',
+  },
+  {
+    name: 'Enterpix Image Generator',
+    url: 'https://enterpix.app/',
+    category: 'Image Generator',
+  },
+  {
+    name: 'Xno.ai Image Generator',
+    url: 'https://xno.ai/',
+    category: 'Image Generator',
+  },
+  {
+    name: 'Spellbook Legal Assistant',
+    url: 'https://spellbook.legal/',
+    category: 'Legal Assistant',
+  },
+  {
+    name: 'Casetext Legal Assistant',
+    url: 'https://casetext.com/',
+    category: 'Legal Assistant',
+  },
+  {
+    name: 'Detangle.ai Legal Assistant',
+    url: 'https://detangle.ai/',
+    category: 'Legal Assistant',
+  },
+  {
+    name: 'Activazon Legal Assistant',
+    url: 'https://activazon.com/',
+    category: 'Legal Assistant',
+  },
+  {
+    name: 'Legal Robot Legal Assistant',
+    url: 'https://legalrobot.com/',
+    category: 'Legal Assistant',
+  },
+  {
+    name: 'Ferret Legal Assistant',
+    url: 'https://ferret.ai/',
+    category: 'Legal Assistant',
+  },
+  {
+    name: 'DoNotPay Legal Assistant',
+    url: 'https://donotpay.com/',
+    category: 'Legal Assistant',
+  },
+  {
+    name: 'Replika Life Assistant',
+    url: 'https://replika.com/',
+    category: 'Life Assistant',
+  },
+  {
+    name: 'Find Your Next Book Life Assistant',
+    url: 'https://findyournextbook.ai/',
+    category: 'Life Assistant',
+  },
+  {
+    name: 'Thekeys Life Assistant',
+    url: 'https://thekeys.ai/',
+    category: 'Life Assistant',
+  },
+  {
+    name: 'AI Trip Planner Life Assistant',
+    url: 'https://buildai.space/',
+    category: 'Life Assistant',
+  },
+  {
+    name: 'Caktus Life Assistant',
+    url: 'https://caktus.ai/',
+    category: 'Life Assistant',
+  },
+  {
+    name: 'JustLearn Life Assistant',
+    url: 'https://justlearn.com/',
+    category: 'Life Assistant',
+  },
+  {
+    name: 'BlackInk Life Assistant',
+    url: 'https://blackink.ai/',
+    category: 'Life Assistant',
+  },
+  {
+    name: 'Write Me A Cover Letter Life Assistant',
+    url: 'https://WriteMeACoverLetter.com/',
+    category: 'Life Assistant',
+  },
+  {
+    name: 'TinyWow Life Assistant',
+    url: 'https://tinywow.com/',
+    category: 'Life Assistant',
+  },
+  {
+    name: 'Prodigy AI Life Assistant',
+    url: 'https://ai.prodi.gg/',
+    category: 'Life Assistant',
+  },
+  {
+    name: 'Circle Labs Life Assistant',
+    url: 'https://circle.isyourshadowyou.com/',
+    category: 'Life Assistant',
+  },
+  {
+    name: 'Elektrif AI Life Assistant',
+    url: 'https://elektrif.ai/',
+    category: 'Life Assistant',
+  },
+  {
+    name: 'Resume Worded Life Assistant',
+    url: 'https://resumeworded.com/',
+    category: 'Life Assistant',
+  },
+  {
+    name: 'Reggi Life Assistant',
+    url: 'https://yfj.social/',
+    category: 'Life Assistant',
+  },
+  {
+    name: 'Brandmark Logo Generator',
+    url: 'https://brandmark.io/',
+    category: 'Logo Generator',
+  },
+  {
+    name: 'Looka Logo Generator',
+    url: 'https://looka.grsm.io/',
+    category: 'Logo Generator',
+  },
+  {
+    name: 'Make Logo AI Logo Generator',
+    url: 'https://makelogoai.com/',
+    category: 'Logo Generator',
+  },
+  {
+    name: 'Namecheap Logo Maker Logo Generator',
+    url: 'https://namecheap.com/',
+    category: 'Logo Generator',
+  },
+  {
+    name: 'Sitekick Low-code/no-code',
+    url: 'https://sitekick.ai/',
+    category: 'Low-code/no-code',
+  },
+  {
+    name: 'Robovision.ai Low-code/no-code',
+    url: 'https://robovision.ai/',
+    category: 'Low-code/no-code',
+  },
+  {
+    name: 'Dust Low-code/no-code',
+    url: 'https://dust.tt/',
+    category: 'Low-code/no-code',
+  },
+  {
+    name: 'Neon AI Low-code/no-code',
+    url: 'https://neon.ai/',
+    category: 'Low-code/no-code',
+  },
+  {
+    name: 'VWO Low-code/no-code',
+    url: 'https://vwo.com/',
+    category: 'Low-code/no-code',
+  },
+  {
+    name: 'Durable AI Low-code/no-code',
+    url: 'https://durable.ai/',
+    category: 'Low-code/no-code',
+  },
+  {
+    name: 'Teleporthq Low-code/no-code',
+    url: 'https://teleporthq.io/',
+    category: 'Low-code/no-code',
+  },
+  {
+    name: 'Debuild Low-code/no-code',
+    url: 'https://debuild.app/',
+    category: 'Low-code/no-code',
+  },
+  {
+    name: 'Monitaur Low-code/no-code',
+    url: 'https://monitaur.ai/',
+    category: 'Low-code/no-code',
+  },
+  {
+    name: 'Teachable Machine Low-code/no-code',
+    url: 'https://teachablemachine.withgoogle.com/',
+    category: 'Low-code/no-code',
+  },
+  {
+    name: 'Brancher AI Low-code/no-code',
+    url: 'https://brancher.ai/',
+    category: 'Low-code/no-code',
+  },
+  {
+    name: 'Axiom Low-code/no-code',
+    url: 'https://axiom.ai/',
+    category: 'Low-code/no-code',
+  },
+  {
+    name: 'Roboflow Low-code/no-code',
+    url: 'https://roboflow.com/',
+    category: 'Low-code/no-code',
+  },
+  {
+    name: 'Nanonets Low-code/no-code',
+    url: 'https://nanonets.com/',
+    category: 'Low-code/no-code',
+  },
+  {
+    name: 'Lobe Low-code/no-code',
+    url: 'https://lobe.ai/',
+    category: 'Low-code/no-code',
+  },
+  {
+    name: 'Liner.ai Low-code/no-code',
+    url: 'https://liner.ai/',
+    category: 'Low-code/no-code',
+  },
+  {
+    name: 'Cogniflow Low-code/no-code',
+    url: 'https://cogniflow.ai/',
+    category: 'Low-code/no-code',
+  },
+  {
+    name: 'Build AI Low-code/no-code',
+    url: 'https://buildai.space/',
+    category: 'Low-code/no-code',
+  },
+  {
+    name: 'Felvin Low-code/no-code',
+    url: 'https://felvin.com/',
+    category: 'Low-code/no-code',
+  },
+  {
+    name: 'Seek Low-code/no-code',
+    url: 'https://seek.ai/',
+    category: 'Low-code/no-code',
+  },
+  {
+    name: 'Lightning AI Low-code/no-code',
+    url: 'https://lightning.ai/',
+    category: 'Low-code/no-code',
+  },
+  {
+    name: 'Browse AI Low-code/no-code',
+    url: 'https://browse.ai/',
+    category: 'Low-code/no-code',
+  },
+  {
+    name: 'Softr Studio Low-code/no-code',
+    url: 'https://softr.io/',
+    category: 'Low-code/no-code',
+  },
+  {
+    name: 'Symanto Text Insights Low-code/no-code',
+    url: 'https://symanto.com/',
+    category: 'Low-code/no-code',
+  },
+  {
+    name: 'Mutiny Low-code/no-code',
+    url: 'https://mutinyhq.com/',
+    category: 'Low-code/no-code',
+  },
+  {
+    name: 'Zevi.ai Low-code/no-code',
+    url: 'https://zevi.ai/',
+    category: 'Low-code/no-code',
+  },
+  {
+    name: 'Riku.ai Low-code/no-code',
+    url: 'https://riku.ai/',
+    category: 'Low-code/no-code',
+  },
+  {
+    name: 'AI Surge Cloud Low-code/no-code',
+    url: 'https://ai-surge.cloud/',
+    category: 'Low-code/no-code',
+  },
+  {
+    name: '10Web Low-code/no-code',
+    url: 'https://10web.io/',
+    category: 'Low-code/no-code',
+  },
+  {
+    name: 'Retune Low-code/no-code',
+    url: 'https://retune.so/',
+    category: 'Low-code/no-code',
+  },
+  {
+    name: 'Let\'s Enhance Image Editing',
+    url: 'https://letsenhance.io/',
+    category: 'Image Editing',
+  },
+  {
+    name: 'Heyday Memory',
+    url: 'https://heyday.xyz/',
+    category: 'Memory',
+  },
+  {
+    name: 'Personal.ai Memory',
+    url: 'https://personal.ai/',
+    category: 'Memory',
+  },
+  {
+    name: 'Rewind AI Memory',
+    url: 'https://rewind.ai/',
+    category: 'Memory',
+  },
+  {
+    name: 'Natural Language Playlist Music',
+    url: 'https://naturallanguageplaylist.com/',
+    category: 'Music',
+  },
+  {
+    name: 'Endel Music',
+    url: 'https://endel.io/',
+    category: 'Music',
+  },
+  {
+    name: 'Harmonai Music',
+    url: 'https://harmonai.org/',
+    category: 'Music',
+  },
+  {
+    name: 'Riffusion Music',
+    url: 'https://riffusion.com/',
+    category: 'Music',
+  },
+  {
+    name: 'Sonify Music',
+    url: 'https://sonify.io/',
+    category: 'Music',
+  },
+  {
+    name: 'Beatoven.ai Music',
+    url: 'https://beatoven.ai/',
+    category: 'Music',
+  },
+  {
+    name: 'Amper Music',
+    url: 'https://ampermusic.com/',
+    category: 'Music',
+  },
+  {
+    name: 'Soundful Music',
+    url: 'https://soundful.com/',
+    category: 'Music',
+  },
+  {
+    name: 'Songtell Music',
+    url: 'https://songtell.com/',
+    category: 'Music',
+  },
+  {
+    name: 'Pop2Piano Music',
+    url: 'https://sweetcocoa.github.io/',
+    category: 'Music',
+  },
+  {
+    name: 'Boomy Music',
+    url: 'https://boomy.com/',
+    category: 'Music',
+  },
+  {
+    name: 'Open Voice OS Music',
+    url: 'https://openvoiceos.com/',
+    category: 'Music',
+  },
+  {
+    name: 'Emergent Drums Music',
+    url: 'https://audialab.com/',
+    category: 'Music',
+  },
+  {
+    name: 'Mubert Music',
+    url: 'https://mubert.com/',
+    category: 'Music',
+  },
+  {
+    name: 'Splashmusic Music',
+    url: 'https://splashmusic.com/',
+    category: 'Music',
+  },
+  {
+    name: 'Aiva Music',
+    url: 'https://aiva.ai/',
+    category: 'Music',
+  },
+  {
+    name: 'Rephrasely Paraphraser',
+    url: 'https://rephrasely.com/',
+    category: 'Paraphraser',
+  },
+  {
+    name: 'Paraphraser Paraphraser',
+    url: 'https://paraphrasetool.com/',
+    category: 'Paraphraser',
+  },
+  {
+    name: 'Quillbot Paraphraser',
+    url: 'https://quillbot.com/',
+    category: 'Paraphraser',
+  },
+  {
+    name: 'Tavus Personalized Videos',
+    url: 'https://tavus.io/',
+    category: 'Personalized Videos',
+  },
+  {
+    name: 'Rephrase Personalized Videos',
+    url: 'https://rephrase.ai/',
+    category: 'Personalized Videos',
+  },
+  {
+    name: 'Windsor Personalized Videos',
+    url: 'https://windsor.io/',
+    category: 'Personalized Videos',
+  },
+  {
+    name: 'BHuman Personalized Videos',
+    url: 'https://bhuman.ai/',
+    category: 'Personalized Videos',
+  },
+  {
+    name: 'Vidyo Personalized Videos',
+    url: 'https://vidyo.ai/',
+    category: 'Personalized Videos',
+  },
+  {
+    name: 'DeepL Productivity',
+    url: 'https://deepl.com/',
+    category: 'Productivity',
+  },
+  {
+    name: 'Scale Productivity',
+    url: 'https://scale.com/',
+    category: 'Productivity',
+  },
+  {
+    name: 'Oracle Productivity',
+    url: 'https://askoracle.app/',
+    category: 'Productivity',
+  },
+  {
+    name: 'Merlin Productivity',
+    url: 'https://merlin.foyer.work/',
+    category: 'Productivity',
+  },
+  {
+    name: 'Enzyme Productivity',
+    url: 'https://enzyme.com/',
+    category: 'Productivity',
+  },
+  {
+    name: 'Endel Productivity',
+    url: 'https://endel.io/',
+    category: 'Productivity',
+  },
+  {
+    name: 'Albus Productivity',
+    url: 'https://springworks.in/',
+    category: 'Productivity',
+  },
+  {
+    name: 'Glean Productivity',
+    url: 'https://glean.com/',
+    category: 'Productivity',
+  },
+  {
+    name: 'Marketplan Productivity',
+    url: 'https://marketplan.io/',
+    category: 'Productivity',
+  },
+  {
+    name: 'Alfred Productivity',
+    url: 'https://alfredsearch.com/',
+    category: 'Productivity',
+  },
+  {
+    name: 'Qatalog Productivity',
+    url: 'https://qatalog.com/',
+    category: 'Productivity',
+  },
+  {
+    name: 'Krisp Productivity',
+    url: 'https://krisp.ai/',
+    category: 'Productivity',
+  },
+  {
+    name: 'Mem.ai Productivity',
+    url: 'https://mem.ai/',
+    category: 'Productivity',
+  },
+  {
+    name: 'Reclaim AI Productivity',
+    url: 'https://reclaim.ai/',
+    category: 'Productivity',
+  },
+  {
+    name: 'Xembly Productivity',
+    url: 'https://xembly.com/',
+    category: 'Productivity',
+  },
+  {
+    name: 'SlidesAI Productivity',
+    url: 'https://slidesai.io/',
+    category: 'Productivity',
+  },
+  {
+    name: 'Noty.ai Productivity',
+    url: 'https://noty.ai/',
+    category: 'Productivity',
+  },
+  {
+    name: 'ChatGPT Productivity',
+    url: 'https://chat.openai.com/',
+    category: 'Productivity',
+  },
+  {
+    name: 'Supernormal Productivity',
+    url: 'https://supernormal.com/',
+    category: 'Productivity',
+  },
+  {
+    name: 'Adobe Sensei Productivity',
+    url: 'https://adobe.com/',
+    category: 'Productivity',
+  },
+  {
+    name: 'typly Productivity',
+    url: 'https://typly.app/',
+    category: 'Productivity',
+  },
+  {
+    name: 'Promptist Prompts',
+    url: 'https://huggingface.co/',
+    category: 'Prompts',
+  },
+  {
+    name: 'Public Prompts Prompts',
+    url: 'https://publicprompts.art/',
+    category: 'Prompts',
+  },
+  {
+    name: 'Img2prompt Prompts',
+    url: 'https://replicate.com/',
+    category: 'Prompts',
+  },
+  {
+    name: 'PromptBase Prompts',
+    url: 'https://promptbase.com/',
+    category: 'Prompts',
+  },
+  {
+    name: 'PromptBox Prompts',
+    url: 'https://promptbox.ai/',
+    category: 'Prompts',
+  },
+  {
+    name: 'Jrnylist Prompts',
+    url: 'https://jrnylist.com/',
+    category: 'Prompts',
+  },
+  {
+    name: 'PromptLayer Prompts',
+    url: 'https://promptlayer.com/',
+    category: 'Prompts',
+  },
+  {
+    name: 'Eye for AI Prompts',
+    url: 'https://eyeforai.xyz/',
+    category: 'Prompts',
+  },
+  {
+    name: 'Dallelist Prompts',
+    url: 'https://dallelist.com/',
+    category: 'Prompts',
+  },
+  {
+    name: 'InteriorAI Real Estate',
+    url: 'https://interiorai.com/',
+    category: 'Real Estate',
+  },
+  {
+    name: 'GetFloorPlan Real Estate',
+    url: 'https://getfloorplan.com/',
+    category: 'Real Estate',
+  },
+  {
+    name: 'Maket Real Estate',
+    url: 'https://maket.ai/',
+    category: 'Real Estate',
+  },
+  {
+    name: 'CoolAIid Real Estate',
+    url: 'https://coolaiid.com/',
+    category: 'Real Estate',
+  },
+  {
+    name: 'AI Room Planner Real Estate',
+    url: 'https://airoomplanner.com/',
+    category: 'Real Estate',
+  },
+  {
+    name: 'Scholarcy Research',
+    url: 'https://scholarcy.com/',
+    category: 'Research',
+  },
+  {
+    name: 'Scispace Research',
+    url: 'https://typeset.io/',
+    category: 'Research',
+  },
+  {
+    name: 'Galactica Research',
+    url: 'https://galactica.org/',
+    category: 'Research',
+  },
+  {
+    name: 'Elicit Research',
+    url: 'https://elicit.org/',
+    category: 'Research',
+  },
+  {
+    name: 'Adept Research',
+    url: 'https://adept.ai/',
+    category: 'Research',
+  },
+  {
+    name: 'Podcast Research',
+    url: 'https://podcast.ai/',
+    category: 'Research',
+  },
+  {
+    name: 'Consensus Research',
+    url: 'https://consensus.app/',
+    category: 'Research',
+  },
+  {
+    name: 'Socratic by Google Research',
+    url: 'https://socratic.org/',
+    category: 'Research',
+  },
+  {
+    name: 'ML news Resources',
+    url: 'https://machine-learning.news/',
+    category: 'Resources',
+  },
+  {
+    name: 'FlowGPT Resources',
+    url: 'https://flowgpt.com/',
+    category: 'Resources',
+  },
+  {
+    name: 'The AI Times Resources',
+    url: 'https://aitimespage.com/',
+    category: 'Resources',
+  },
+  {
+    name: 'AI Art Apps Database Resources',
+    url: 'https://aiartapps.com/',
+    category: 'Resources',
+  },
+  {
+    name: 'Infranodus Sales',
+    url: 'https://infranodus.com/',
+    category: 'Sales',
+  },
+  {
+    name: 'Reply.io Sales',
+    url: 'https://reply.io/',
+    category: 'Sales',
+  },
+  {
+    name: 'Regie Sales',
+    url: 'https://regie.ai/',
+    category: 'Sales',
+  },
+  {
+    name: 'Cresta Sales',
+    url: 'https://cresta.com/',
+    category: 'Sales',
+  },
+  {
+    name: 'Omneky Sales',
+    url: 'https://omneky.com/',
+    category: 'Sales',
+  },
+  {
+    name: 'Outplayhq Sales',
+    url: 'https://outplayhq.com/',
+    category: 'Sales',
+  },
+  {
+    name: 'Usetwain Sales',
+    url: 'https://usetwain.com/',
+    category: 'Sales',
+  },
+  {
+    name: 'Industrial Data Labs Sales',
+    url: 'https://industrialdatalabs.com/',
+    category: 'Sales',
+  },
+  {
+    name: 'MarbleFlows Sales',
+    url: 'https://app.marbleflows.com/',
+    category: 'Sales',
+  },
+  {
+    name: 'GETitOUT Sales',
+    url: 'https://getitout.io/',
+    category: 'Sales',
+  },
+  {
+    name: 'Klaviyo SMS Assistant Sales',
+    url: 'https://klaviyo.com/',
+    category: 'Sales',
+  },
+  {
+    name: 'Smartwriter Sales',
+    url: 'https://smartwriter.ai/',
+    category: 'Sales',
+  },
+  {
+    name: 'Lavender Sales',
+    url: 'https://lavender.ai/',
+    category: 'Sales',
+  },
+  {
+    name: 'Andi Search Engine',
+    url: 'https://andisearch.com/',
+    category: 'Search Engine',
+  },
+  {
+    name: 'One More AI Search Engine',
+    url: 'https://onemoreai.com/',
+    category: 'Search Engine',
+  },
+  {
+    name: 'AnyPod Search Engine',
+    url: 'https://anypod.ai/',
+    category: 'Search Engine',
+  },
+  {
+    name: 'Kailua Labs Search Engine',
+    url: 'https://app.kailualabs.com/',
+    category: 'Search Engine',
+  },
+  {
+    name: 'Explore AI Search Engine',
+    url: 'https://exploreai.vercel.app/',
+    category: 'Search Engine',
+  },
+  {
+    name: 'Looria Search Engine',
+    url: 'https://looria.com/',
+    category: 'Search Engine',
+  },
+  {
+    name: 'ChatGPT Chrome Extension Search Engine',
+    url: 'https://chrome.google.com/',
+    category: 'Search Engine',
+  },
+  {
+    name: 'Everypixel Search Engine',
+    url: 'https://everypixel.com/',
+    category: 'Search Engine',
+  },
+  {
+    name: 'Steno Search Engine',
+    url: 'https://steno.ai/',
+    category: 'Search Engine',
+  },
+  {
+    name: 'Krea Search Engine',
+    url: 'https://krea.ai/',
+    category: 'Search Engine',
+  },
+  {
+    name: 'Dreamsands Search Engine',
+    url: 'https://dreamsands.ai/',
+    category: 'Search Engine',
+  },
+  {
+    name: 'Generated Photos Search Engine',
+    url: 'https://generated.photos/',
+    category: 'Search Engine',
+  },
+  {
+    name: 'NeevaAI Search Engine',
+    url: 'https://neeva.com/',
+    category: 'Search Engine',
+  },
+  {
+    name: 'Context Search Engine',
+    url: 'https://addcontext.xyz/',
+    category: 'Search Engine',
+  },
+  {
+    name: 'Perplexity AI Search Engine',
+    url: 'https://perplexity.ai/',
+    category: 'Search Engine',
+  },
+  {
+    name: 'Algolia Search Engine',
+    url: 'https://algolia.com/',
+    category: 'Search Engine',
+  },
+  {
+    name: 'You Search Engine',
+    url: 'https://you.com/',
+    category: 'Search Engine',
+  },
+  {
+    name: 'Rosebud Search Engine',
+    url: 'https://rosebud.ai/',
+    category: 'Search Engine',
+  },
+  {
+    name: 'Nyx Search Engine',
+    url: 'https://nyx.gallery/',
+    category: 'Search Engine',
+  },
+  {
+    name: 'PromptHero Search Engine',
+    url: 'https://prompthero.com/',
+    category: 'Search Engine',
+  },
+  {
+    name: 'Writesonic SEO',
+    url: 'https://writesonic.com/',
+    category: 'SEO',
+  },
+  {
+    name: 'Mentioned SEO',
+    url: 'https://mentioned.ai/',
+    category: 'SEO',
+  },
+  {
+    name: 'BlogNLP SEO',
+    url: 'https://blognlp.com/',
+    category: 'SEO',
+  },
+  {
+    name: 'CTRify SEO',
+    url: 'https://ctrify.com/',
+    category: 'SEO',
+  },
+  {
+    name: 'Jenni SEO',
+    url: 'https://jenni.ai/',
+    category: 'SEO',
+  },
+  {
+    name: 'Closers Copy SEO',
+    url: 'https://closerscopy.com/',
+    category: 'SEO',
+  },
+  {
+    name: 'Kafkai SEO',
+    url: 'https://kafkai.com/',
+    category: 'SEO',
+  },
+  {
+    name: 'Spinrewriter SEO',
+    url: 'https://spinrewriter.com/',
+    category: 'SEO',
+  },
+  {
+    name: 'Writer SEO',
+    url: 'https://writer.com/',
+    category: 'SEO',
+  },
+  {
+    name: 'LongShot SEO',
+    url: 'https://longshot.ai/',
+    category: 'SEO',
+  },
+  {
+    name: 'Word Spinner SEO',
+    url: 'https://word-spinner.com/',
+    category: 'SEO',
+  },
+  {
+    name: 'Neuronwriter SEO',
+    url: 'https://neuronwriter.com/',
+    category: 'SEO',
+  },
+  {
+    name: 'Topicmojo SEO',
+    url: 'https://topicmojo.com/',
+    category: 'SEO',
+  },
+  {
+    name: 'Compar SEO',
+    url: 'https://compar.ai/',
+    category: 'SEO',
+  },
+  {
+    name: 'Typli SEO',
+    url: 'https://typli.ai/',
+    category: 'SEO',
+  },
+  {
+    name: 'Eilla AI SEO',
+    url: 'https://eilla.ai/',
+    category: 'SEO',
+  },
+  {
+    name: 'Letterdrop SEO',
+    url: 'https://letterdrop.com/',
+    category: 'SEO',
+  },
+  {
+    name: 'Writey AI SEO',
+    url: 'https://writey.ai/',
+    category: 'SEO',
+  },
+  {
+    name: 'AI-Writer SEO',
+    url: 'https://ai-writer.com/',
+    category: 'SEO',
+  },
+  {
+    name: 'Scalenut SEO',
+    url: 'https://scalenut.com/',
+    category: 'SEO',
+  },
+  {
+    name: 'Wordhero SEO',
+    url: 'https://wordhero.co/',
+    category: 'SEO',
+  },
+  {
+    name: 'GrowthBar SEO',
+    url: 'https://growthbarseo.com/',
+    category: 'SEO',
+  },
+  {
+    name: 'Katteb SEO',
+    url: 'https://katteb.com/',
+    category: 'SEO',
+  },
+  {
+    name: 'Thundercontent SEO',
+    url: 'https://thundercontent.com/',
+    category: 'SEO',
+  },
+  {
+    name: 'Moonbeam SEO',
+    url: 'https://gomoonbeam.com/',
+    category: 'SEO',
+  },
+  {
+    name: 'Copymatic SEO',
+    url: 'https://copymatic.ai/',
+    category: 'SEO',
+  },
+  {
+    name: 'ArticleForge SEO',
+    url: 'https://articleforge.com/',
+    category: 'SEO',
+  },
+  {
+    name: 'BrameWork SEO',
+    url: 'https://bramework.com/',
+    category: 'SEO',
+  },
+  {
+    name: 'InstaSalesAI Social Media Assistant',
+    url: 'https://instasalesai.com/',
+    category: 'Social Media Assistant',
+  },
+  {
+    name: 'FeedHive Social Media Assistant',
+    url: 'https://feedhive.com/',
+    category: 'Social Media Assistant',
+  },
+  {
+    name: 'Predis Social Media Assistant',
+    url: 'https://predis.ai/',
+    category: 'Social Media Assistant',
+  },
+  {
+    name: 'Tweet Hunter Social Media Assistant',
+    url: 'https://tweethunter.io/',
+    category: 'Social Media Assistant',
+  },
+  {
+    name: 'Contenda Social Media Assistant',
+    url: 'https://contenda.co/',
+    category: 'Social Media Assistant',
+  },
+  {
+    name: 'Editby Social Media Assistant',
+    url: 'https://editby.ai/',
+    category: 'Social Media Assistant',
+  },
+  {
+    name: 'Spatial Social Media Assistant',
+    url: 'https://spatial.ai/',
+    category: 'Social Media Assistant',
+  },
+  {
+    name: 'SocialBu Social Media Assistant',
+    url: 'https://socialbu.com/',
+    category: 'Social Media Assistant',
+  },
+  {
+    name: 'TweetEmote Social Media Assistant',
+    url: 'https://TweetEmote.com/',
+    category: 'Social Media Assistant',
+  },
+  {
+    name: 'Repl AI Social Media Assistant',
+    url: 'https://replai.so/',
+    category: 'Social Media Assistant',
+  },
+  {
+    name: 'CrawlQ.ai Social Media Assistant',
+    url: 'https://crawlq.ai/',
+    category: 'Social Media Assistant',
+  },
+  {
+    name: 'Graham AI Social Media Assistant',
+    url: 'https://grahamai.co/',
+    category: 'Social Media Assistant',
+  },
+  {
+    name: 'AI Social Bio Social Media Assistant',
+    url: 'https://aisocialbio.com/',
+    category: 'Social Media Assistant',
+  },
+  {
+    name: 'SheetGod Spreadsheets',
+    url: 'https://boloforms.com/',
+    category: 'Spreadsheets',
+  },
+  {
+    name: 'Goodlookup Spreadsheets',
+    url: 'https://goodlookup.com/',
+    category: 'Spreadsheets',
+  },
+  {
+    name: 'Excel Formula Bot Spreadsheets',
+    url: 'https://excelformulabot.com/',
+    category: 'Spreadsheets',
+  },
+  {
+    name: 'Sheet+ Spreadsheets',
+    url: 'https://sheetplus.ai/',
+    category: 'Spreadsheets',
+  },
+  {
+    name: 'Sheet AI Spreadsheets',
+    url: 'https://sheetai.app/',
+    category: 'Spreadsheets',
+  },
+  {
+    name: 'AIHelperBot SQL',
+    url: 'https://aihelperbot.com/',
+    category: 'SQL',
+  },
+  {
+    name: 'AI Data Sidekick SQL',
+    url: 'https://airops.com/',
+    category: 'SQL',
+  },
+  {
+    name: 'Channel SQL',
+    url: 'https://usechannel.com/',
+    category: 'SQL',
+  },
+  {
+    name: 'Ai2sql SQL',
+    url: 'https://ai2sql.io/',
+    category: 'SQL',
+  },
+  {
+    name: 'Avanty SQL',
+    url: 'https://avanty.app/',
+    category: 'SQL',
+  },
+  {
+    name: 'Broadn Startup',
+    url: 'https://broadn.io/',
+    category: 'Startup',
+  },
+  {
+    name: 'Paperade Startup',
+    url: 'https://paperade.co/',
+    category: 'Startup',
+  },
+  {
+    name: 'Tome Startup',
+    url: 'https://beta.tome.app/',
+    category: 'Startup',
+  },
+  {
+    name: 'Rationale Startup',
+    url: 'https://rationale.jina.ai/',
+    category: 'Startup',
+  },
+  {
+    name: 'Namelix Startup',
+    url: 'https://namelix.com/',
+    category: 'Startup',
+  },
+  {
+    name: 'Finta Startup',
+    url: 'https://trustfinta.com/',
+    category: 'Startup',
+  },
+  {
+    name: 'Ideabuddy Startup',
+    url: 'https://ideabuddy.com/',
+    category: 'Startup',
+  },
+  {
+    name: 'Validator AI Startup',
+    url: 'https://validatorai.com/',
+    category: 'Startup',
+  },
+  {
+    name: 'Durable Startup',
+    url: 'https://durable.co/',
+    category: 'Startup',
+  },
+  {
+    name: 'Pitchgrade Startup',
+    url: 'https://pitchgrade.com/',
+    category: 'Startup',
+  },
+  {
+    name: 'Namewizard.ai Startup',
+    url: 'https://namewizard.ai/',
+    category: 'Startup',
+  },
+  {
+    name: 'Subtxt Story Teller',
+    url: 'https://subtxt.app/',
+    category: 'Story Teller',
+  },
+  {
+    name: 'Fabled Story Teller',
+    url: 'https://fabled.ai/',
+    category: 'Story Teller',
+  },
+  {
+    name: 'Artflow AI Story Teller',
+    url: 'https://artflow.ai/',
+    category: 'Story Teller',
+  },
+  {
+    name: 'Once Upon A Bot Story Teller',
+    url: 'https://onceuponabot.com/',
+    category: 'Story Teller',
+  },
+  {
+    name: 'NovelAI Story Teller',
+    url: 'https://novelai.net/',
+    category: 'Story Teller',
+  },
+  {
+    name: 'StoriesForKids Story Teller',
+    url: 'https://storiesforkids.ai/',
+    category: 'Story Teller',
+  },
+  {
+    name: 'Neural Canvas Story Teller',
+    url: 'https://neuralcanvas.io/',
+    category: 'Story Teller',
+  },
+  {
+    name: 'BedtimeStory AI Story Teller',
+    url: 'https://bedtimestory.ai/',
+    category: 'Story Teller',
+  },
+  {
+    name: 'Scene One Story Teller',
+    url: 'https://sceneone.app/',
+    category: 'Story Teller',
+  },
+  {
+    name: 'StoryWizard Story Teller',
+    url: 'https://storywizard.ai/',
+    category: 'Story Teller',
+  },
+  {
+    name: 'Story Path Story Teller',
+    url: 'https://storypath.app/',
+    category: 'Story Teller',
+  },
+  {
+    name: 'What on earth? Story Teller',
+    url: 'https://whatonearth.xyz/',
+    category: 'Story Teller',
+  },
+  {
+    name: 'Summate Summarizer',
+    url: 'https://summate.it/',
+    category: 'Summarizer',
+  },
+  {
+    name: 'TLDR this Summarizer',
+    url: 'https://tldrthis.com/',
+    category: 'Summarizer',
+  },
+  {
+    name: 'Upword Summarizer',
+    url: 'https://upword.ai/',
+    category: 'Summarizer',
+  },
+  {
+    name: 'WordfixerBot Summarizer',
+    url: 'https://wordfixerbot.com/',
+    category: 'Summarizer',
+  },
+  {
+    name: 'Genei Summarizer',
+    url: 'https://genei.io/',
+    category: 'Summarizer',
+  },
+  {
+    name: 'Otter AI Summarizer',
+    url: 'https://otter.ai/',
+    category: 'Summarizer',
+  },
+  {
+    name: 'Bearly Summarizer',
+    url: 'https://bearly.ai/',
+    category: 'Summarizer',
+  },
+  {
+    name: 'Summari Summarizer',
+    url: 'https://summari.com/',
+    category: 'Summarizer',
+  },
+  {
+    name: 'Summarize Tech Summarizer',
+    url: 'https://summarize.tech/',
+    category: 'Summarizer',
+  },
+  {
+    name: 'ExplainThis Summarizer',
+    url: 'https://explainthis.ai/',
+    category: 'Summarizer',
+  },
+  {
+    name: 'GPT-Prompter Summarizer',
+    url: 'https://gptprompter.com/',
+    category: 'Summarizer',
+  },
+  {
+    name: 'SummerEyes Summarizer',
+    url: 'https://summereyes.ai/',
+    category: 'Summarizer',
+  },
+  {
+    name: 'Wellsaidlabs Text To Speech',
+    url: 'https://wellsaidlabs.com/',
+    category: 'Text To Speech',
+  },
+  {
+    name: 'Replicastudios Text To Speech',
+    url: 'https://replicastudios.com/',
+    category: 'Text To Speech',
+  },
+  {
+    name: 'Ad Auris Text To Speech',
+    url: 'https://play.ad-auris.com/',
+    category: 'Text To Speech',
+  },
+  {
+    name: 'FakeYou Text To Speech',
+    url: 'https://fakeyou.com/',
+    category: 'Text To Speech',
+  },
+  {
+    name: 'Listnr Text To Speech',
+    url: 'https://listnr.tech/',
+    category: 'Text To Speech',
+  },
+  {
+    name: 'Resemble Text To Speech',
+    url: 'https://resemble.ai/',
+    category: 'Text To Speech',
+  },
+  {
+    name: 'Audioread Text To Speech',
+    url: 'https://audioread.com/',
+    category: 'Text To Speech',
+  },
+  {
+    name: 'Whisper Text To Speech',
+    url: 'https://github.com/',
+    category: 'Text To Speech',
+  },
+  {
+    name: 'Descript Text To Speech',
+    url: 'https://descript.com/',
+    category: 'Text To Speech',
+  },
+  {
+    name: 'Symbl.ai Text To Speech',
+    url: 'https://symbl.ai/',
+    category: 'Text To Speech',
+  },
+  {
+    name: 'Murf AI Text To Speech',
+    url: 'https://murf.ai/',
+    category: 'Text To Speech',
+  },
+  {
+    name: 'Play.ht Text To Speech',
+    url: 'https://play.ht/',
+    category: 'Text To Speech',
+  },
+  {
+    name: 'Apple Books Text To Speech',
+    url: 'https://apple.com/',
+    category: 'Text To Speech',
+  },
+  {
+    name: 'Article.Audio Text To Speech',
+    url: 'https://article.audio/',
+    category: 'Text To Speech',
+  },
+  {
+    name: 'Convai Text To Speech',
+    url: 'https://convai.com/',
+    category: 'Text To Speech',
+  },
+  {
+    name: 'Speechify Text To Speech',
+    url: 'https://speechify.com/',
+    category: 'Text To Speech',
+  },
+  {
+    name: 'Eleven Labs Text To Speech',
+    url: 'https://levenlabs.io/',
+    category: 'Text To Speech',
+  },
+  {
+    name: 'Coqui Text To Speech',
+    url: 'https://coqui.ai/',
+    category: 'Text To Speech',
+  },
+  {
+    name: 'Free Subtitles AI Transcriber',
+    url: 'https://freesubtitles.ai/',
+    category: 'Transcriber',
+  },
+  {
+    name: 'fireflies.ai Transcriber',
+    url: 'https://fireflies.ai/',
+    category: 'Transcriber',
+  },
+  {
+    name: 'Whisper Memos Transcriber',
+    url: 'https://whispermemos.com/',
+    category: 'Transcriber',
+  },
+  {
+    name: 'Supertranslate Transcriber',
+    url: 'https://supertranslate.ai/',
+    category: 'Transcriber',
+  },
+  {
+    name: 'Type Studio Video Editing',
+    url: 'https://typestudio.co/',
+    category: 'Video Editing',
+  },
+  {
+    name: 'Contentfries Video Editing',
+    url: 'https://contentfries.com/',
+    category: 'Video Editing',
+  },
+  {
+    name: 'Topaz Video AI Video Editing',
+    url: 'https://topazlabs.com/',
+    category: 'Video Editing',
+  },
+  {
+    name: 'Shuffll Video Editing',
+    url: 'https://shuffll.com/',
+    category: 'Video Editing',
+  },
+  {
+    name: 'Gling Video Editing',
+    url: 'https://gling.ai/',
+    category: 'Video Editing',
+  },
+  {
+    name: 'Pictory Video Editing',
+    url: 'https://pictory.ai/',
+    category: 'Video Editing',
+  },
+  {
+    name: 'Runwayml Video Editing',
+    url: 'https://runwayml.com/',
+    category: 'Video Editing',
+  },
+  {
+    name: 'Unscreen.com Video Editing',
+    url: 'https://unscreen.com/',
+    category: 'Video Editing',
+  },
+  {
+    name: 'Colourlab Video Editing',
+    url: 'https://colourlab.ai/',
+    category: 'Video Editing',
+  },
+  {
+    name: 'Papercup Video Editing',
+    url: 'https://papercup.com/',
+    category: 'Video Editing',
+  },
+  {
+    name: 'Dubverse Video Editing',
+    url: 'https://dubverse.ai/',
+    category: 'Video Editing',
+  },
+  {
+    name: 'Vidyo.ai Video Editing',
+    url: 'https://vidyo.ai/',
+    category: 'Video Editing',
+  },
+  {
+    name: 'Munch Video Editing',
+    url: 'https://getmunch.com/',
+    category: 'Video Editing',
+  },
+  {
+    name: 'FILM Video Generator',
+    url: 'https://replicate.com/',
+    category: 'Video Generator',
+  },
+  {
+    name: 'Astria Video Generator',
+    url: 'https://astria.ai/',
+    category: 'Video Generator',
+  },
+  {
+    name: 'Waymark Video Generator',
+    url: 'https://waymark.com/',
+    category: 'Video Generator',
+  },
+  {
+    name: 'Fliki Video Generator',
+    url: 'https://fliki.ai/',
+    category: 'Video Generator',
+  },
+  {
+    name: 'Synthesia Video Generator',
+    url: 'https://synthesia.io/',
+    category: 'Video Generator',
+  },
+  {
+    name: 'Steve AI Video Generator',
+    url: 'https://steve.ai/',
+    category: 'Video Generator',
+  },
+  {
+    name: 'InVideo Video Generator',
+    url: 'https://invideo.io/',
+    category: 'Video Generator',
+  },
+  {
+    name: 'Opus Video Generator',
+    url: 'https://opus.ai/',
+    category: 'Video Generator',
+  },
+  {
+    name: 'WowTo Video Generator',
+    url: 'https://wowto.ai/',
+    category: 'Video Generator',
+  },
+  {
+    name: 'Colossyan Video Generator',
+    url: 'https://colossyan.com/',
+    category: 'Video Generator',
+  },
+  {
+    name: 'Xpression Camera Video Generator',
+    url: 'https://xpressioncamera.com/',
+    category: 'Video Generator',
+  },
+  {
+    name: 'Movio Video Generator',
+    url: 'https://movio.la/',
+    category: 'Video Generator',
+  },
+  {
+    name: 'Pyttipanna Video Generator',
+    url: 'https://pyttipanna.xyz/',
+    category: 'Video Generator',
+  },
+  {
+    name: 'Peech Video Generator',
+    url: 'https://peech-ai.com/',
+    category: 'Video Generator',
+  },
+  {
+    name: 'Wonder Dynamics Video Generator',
+    url: 'https://wonderdynamics.com/',
+    category: 'Video Generator',
+  },
+  {
+    name: 'Creative Reality Studio (D-ID) Video Generator',
+    url: 'https://studio.d-id.com/',
+    category: 'Video Generator',
+  },
+  {
+    name: 'LiveReacting AI Video Generator',
+    url: 'https://livereacting.com/',
+    category: 'Video Generator',
+  },
+  {
+    name: 'Audiolabs Video Generator',
+    url: 'https://audiolabs.io/',
+    category: 'Video Generator',
+  },
+  {
+    name: 'Hourone Video Generator',
+    url: 'https://hourone.ai/',
+    category: 'Video Generator',
+  },
+  {
+    name: 'VidIQ Video Planner',
+    url: 'https://vidiq.com/',
+    category: 'Video Planner',
+  }
 ];

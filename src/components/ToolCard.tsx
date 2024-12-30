@@ -6,6 +6,17 @@ interface ToolCardProps {
   tool: Tool;
 }
 
+const getCategoryStyle = (category: string) => {
+  switch (category) {
+    case '3D':
+      return 'from-blue-50 to-indigo-50 text-blue-700';
+    case 'Art':
+      return 'from-purple-50 to-pink-50 text-purple-700';
+    default:
+      return 'from-gray-50 to-blue-50 text-gray-700';
+  }
+};
+
 export function ToolCard({ tool }: ToolCardProps) {
   return (
     <div className="group bg-white rounded-xl shadow-sm hover:shadow-xl p-6 transition-all duration-300 hover:scale-102 border border-gray-100">
@@ -13,11 +24,7 @@ export function ToolCard({ tool }: ToolCardProps) {
         <h3 className="text-xl font-semibold text-gray-800 group-hover:text-blue-600 transition-colors">
           {tool.name}
         </h3>
-        <span className={`px-4 py-1.5 text-sm font-medium rounded-full ${
-          tool.category === '3D' 
-            ? 'bg-gradient-to-r from-blue-50 to-indigo-50 text-blue-700'
-            : 'bg-gradient-to-r from-purple-50 to-pink-50 text-purple-700'
-        }`}>
+        <span className={`px-4 py-1.5 text-sm font-medium rounded-full bg-gradient-to-r ${getCategoryStyle(tool.category)}`}>
           {tool.category}
         </span>
       </div>

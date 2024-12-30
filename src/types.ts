@@ -4,4 +4,4 @@ export interface Tool {
   category: string;
 }
 
-export type Category = '3D' | 'Art';
+export type Category = '3D' | 'Art' | string; // Updated to allow for more categories

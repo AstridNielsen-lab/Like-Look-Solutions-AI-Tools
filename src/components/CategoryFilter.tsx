@@ -1,5 +1,6 @@
 import React from 'react';
 import { Category } from '../types';
+import { getUniqueCategories } from '../utils/categories';
 
 interface CategoryFilterProps {
   selectedCategory: Category | 'All';
@@ -7,11 +8,11 @@ interface CategoryFilterProps {
 }
 
 export function CategoryFilter({ selectedCategory, onCategoryChange }: CategoryFilterProps) {
-  const categories: (Category | 'All')[] = ['All', '3D', 'Art'];
+  const uniqueCategories = ['All', ...getUniqueCategories()];
 
   return (
-    <div className="flex gap-3 justify-center">
-      {categories.map((category) => (
+    <div className="flex flex-wrap gap-3 justify-center">
+      {uniqueCategories.map((category) => (
         <button
           key={category}
           onClick={() => onCategoryChange(category)}

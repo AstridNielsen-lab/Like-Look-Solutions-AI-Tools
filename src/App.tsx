@@ -32,9 +32,9 @@ function App() {
                 <div className="bg-gradient-to-r from-blue-500 to-blue-600 p-2.5 rounded-xl shadow-md">
                   <Cpu className="h-6 w-6 text-white" />
                 </div>
-                <h2 className="ml-4 text-2xl font-bold bg-gradient-to-r from-gray-800 to-gray-600 bg-clip-text text-transparent">
-                  Like Look Solutions AI Tools
-                </h2>
+                <h1 className="ml-4 text-2xl font-bold bg-gradient-to-r from-gray-800 to-gray-600 bg-clip-text text-transparent">
+                  Like Look AI Tools
+                </h1>
               </div>
               <ContactInfo />
             </div>

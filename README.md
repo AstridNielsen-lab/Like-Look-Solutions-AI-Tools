@@ -76,15 +76,25 @@ O **Like Look Solutions AI Tools** é um conjunto de ferramentas baseadas em int
 
 ### Como Utilizar:
 
-1. Clone o repositório:
+**1. Clone o repositório:**
    ```bash
    git clone https://github.com/your-repo/like-look-solutions-ai-tools.git
+   ```
+
+**2. Acesse o diretório do projeto:**
+   ```bash
    cd like-look-solutions-ai-tools
+   ```
 
-### Como Utilizar:
+**3. Instale as dependências:**
+   ```bash
+   npm install
+   ```
 
-```bash
-npm install
+**4. Inicie o servidor de desenvolvimento:**
+   ```bash
+   npm run dev
+   ```
 
 
 

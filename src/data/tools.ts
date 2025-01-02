@@ -2,7 +2,7 @@ import { Tool } from '../types';
 
 export const tools: Tool[] = [
   { name: 'Julio Prompt Studio', url: 'https://radiotatuapefm.pythonanywhere.com', category: 'Prompt Studio ⭐' },
-  { name: 'Julio Prompt Studio', url: 'https://radiotatuapefm.pythonanywhere.com', category: 'Prompt Studio ⭐' },
+  { name: 'AccessibleComm', url: 'https://accessible-comm.vercel.app', category: 'Communication ⭐' },
   { name: 'Masterpiece Studio', url: 'https://masterpiecestudio.com', category: '3D' },  
   { name: 'G3DAI {Jedi}', url: 'https://g3d.ai', category: '3D' },
   { name: 'Ponzu', url: 'https://www.ponzu.gg', category: '3D' },
